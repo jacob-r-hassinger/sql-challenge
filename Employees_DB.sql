@@ -1,5 +1,5 @@
--- Editted from the QuickDBD export, which was a nice way to get the tables set up for the ERD: https://www.quickdatabasediagrams.com/
-
+-- Heavily editted from the QuickDBD export, which was a nice way to get the tables set up for the ERD: https://www.quickdatabasediagrams.com/
+--In retrospect, the export was not that heavily used, but it was my initial starting point.
 
 CREATE TABLE departments (
 	dept_no varchar(10) PRIMARY KEY NOT NULL,
